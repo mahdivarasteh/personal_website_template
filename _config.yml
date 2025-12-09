@@ -107,16 +107,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Khargooshe Naziloo"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I'm the best student.
+  name             : "Mahdi"
+  avatar           : "https://iili.io/fA6RQGp.webp"
+  bio              : ...!
   location         : "تهران"
-  email            : sauleh@gmail.com
-  twitter: sauleh_e
+  email            : mahdivaraste1386@gmail.com 
+  twitter: 
   linkedin: 
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: mahdivarasteh
+  instagram: mahdii_varasteh
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
